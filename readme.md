@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Palanivel Subramani</h1>
-Azure DevOps Engineer | Cloud Automation | Infrastructure as Code | Cloud Evangelist | 3X Azure Certified | DevOps | Python | Docker | Kubernetes | Terraform | Ansible | Serverless
+Oracle Certified PL/SQL | SQL | Clinical Data | Clinical Reseach | Cloud Automation | Infrastructure as Code | Cloud Evangelist | 3X Azure Certified | DevOps | Python | Docker | Kubernetes | Terraform | Ansible | Serverless
 
 - 👨‍💻 All of my projects are available at [https://github.com/palanipsb?tab=repositories](https://github.com/palanipsb)
 - 💬 Ask me about **Cloud & DevOps & Programming**
