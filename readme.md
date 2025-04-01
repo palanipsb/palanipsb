@@ -2,7 +2,7 @@
 Oracle Certified PL/SQL | SQL | Clinical Data | Clinical Reseach | Cloud Automation | Infrastructure as Code | Cloud Evangelist | 3X Azure Certified | DevOps | Python | Docker | Kubernetes | Terraform | Ansible | Serverless
 
 - 👨‍💻 All of my projects are available at [https://github.com/palanipsb?tab=repositories](https://github.com/palanipsb)
-- 💬 Ask me about **Cloud & DevOps & Programming**
+- 💬 Ask me about **Oracle PL/SQL | AWS Cloud | Azure Cloud | DevOps | Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
